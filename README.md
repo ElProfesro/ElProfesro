@@ -15,5 +15,5 @@ My Website: https://solo.to/johnwickdev
 
 ![Visitor Count](https://profile-counter.glitch.me/elprofesro/count.svg)
 
-### Spotify playlists:
+### Spotify playlists deploys on Netlify:
 [![Netlify Status](https://api.netlify.com/api/v1/badges/270c2d60-ceef-4746-9f46-2a649c3c2312/deploy-status)](https://app.netlify.com/sites/projectxspotify/deploys)
